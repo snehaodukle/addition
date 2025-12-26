@@ -1,0 +1,22 @@
+#1nclude<stdio.h>
+int main(){ int i,a[5l,b[5l, c[5];
+for (i=0; i<=5; i++)
+{
+printf("enter number");
+scanf("%d" ‚&a[i]);
+}
+{
+for (i=0; i<=5; i++)
+printf("enter number");
+scanf("%d" ‚&b[i]);
+}
+for (i=0; i<=5; it+)
+{
+c[i]=a[i]+b[i];
+}
+{
+for (i=0; i<=5; it+)
+printf("%d+%d=%d\n"‚ali], b[il ‚c[il);
+}
+return 0;
+}
